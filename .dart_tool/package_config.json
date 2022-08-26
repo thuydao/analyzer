@@ -140,13 +140,13 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "analyzer",
+      "name": "analyzerr",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2022-08-26T10:32:57.679161Z",
+  "generated": "2022-08-26T11:26:37.750386Z",
   "generator": "pub",
   "generatorVersion": "2.17.6"
 }
